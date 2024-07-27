@@ -3,4 +3,4 @@ The Source for this data was used from this link: https://www.kaggle.com/dataset
 
 BI Report link: https://app.powerbi.com/view?r=eyJrIjoiNWU1OTEzOWEtY2Y5OS00NjY4LTliYjgtYmEzN2ExNWY3NjI0IiwidCI6IjJlYWZhNDQ4LTQzNzMtNGEyNi05NWM2LTUyZGVhNTFlODA5YSJ9
 
-![screenshot](Credit Card Spending Analysis.png)
+![image](Dashboard.png)
