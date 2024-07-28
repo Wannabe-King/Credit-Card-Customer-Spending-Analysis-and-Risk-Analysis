@@ -1,7 +1,7 @@
 # Credit-Card-Spending-Analysis-PowerBi
 The Source for this data was used this link: [click here](https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india) 
 
-BI Report link: [click here](https://app.powerbi.com/view?r=eyJrIjoiNWU1OTEzOWEtY2Y5OS00NjY4LTliYjgtYmEzN2ExNWY3NjI0IiwidCI6IjJlYWZhNDQ4LTQzNzMtNGEyNi05NWM2LTUyZGVhNTFlODA5YSJ9)
+BI Dashboard link: [click here](https://app.powerbi.com/view?r=eyJrIjoiNWU1OTEzOWEtY2Y5OS00NjY4LTliYjgtYmEzN2ExNWY3NjI0IiwidCI6IjJlYWZhNDQ4LTQzNzMtNGEyNi05NWM2LTUyZGVhNTFlODA5YSJ9)
 
 ## Problem Statement
 XYZ Bank, a legacy financial institution, aimed to diversify its product offerings by introducing a new line of credit cards. To validate the potential success of this venture, they approached us, to conduct a pilot project using a sample dataset.
